@@ -1,0 +1,9 @@
+C:\Users\TOSHIBA\Desktop\muhendislikprojesi\arkadasOneri\arkadasOneri\bin\Debug\arkadasOneri.exe.config
+C:\Users\TOSHIBA\Desktop\muhendislikprojesi\arkadasOneri\arkadasOneri\bin\Debug\arkadasOneri.exe
+C:\Users\TOSHIBA\Desktop\muhendislikprojesi\arkadasOneri\arkadasOneri\bin\Debug\arkadasOneri.pdb
+C:\Users\TOSHIBA\Desktop\muhendislikprojesi\arkadasOneri\arkadasOneri\obj\Debug\arkadasOneri.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\muhendislikprojesi\arkadasOneri\arkadasOneri\obj\Debug\arkadasOneri.Form1.resources
+C:\Users\TOSHIBA\Desktop\muhendislikprojesi\arkadasOneri\arkadasOneri\obj\Debug\arkadasOneri.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\muhendislikprojesi\arkadasOneri\arkadasOneri\obj\Debug\arkadasOneri.csproj.GenerateResource.Cache
+C:\Users\TOSHIBA\Desktop\muhendislikprojesi\arkadasOneri\arkadasOneri\obj\Debug\arkadasOneri.exe
+C:\Users\TOSHIBA\Desktop\muhendislikprojesi\arkadasOneri\arkadasOneri\obj\Debug\arkadasOneri.pdb
